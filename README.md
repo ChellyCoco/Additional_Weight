@@ -38,6 +38,5 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Author
 
-- Your Name
 - GitHub: [ChellyCoco](https://github.com/ChellyCoco)
 
